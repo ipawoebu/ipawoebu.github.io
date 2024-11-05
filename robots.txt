@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipawoebu.github.io/GmM/sitemap_index.txt
+Sitemap: https://ipawoebu.github.io/TxM/sitemap_index.txt
+Sitemap: https://ipawoebu.github.io/ibY/sitemap_index.txt
+Sitemap: https://ipawoebu.github.io/ouS/sitemap_index.txt
